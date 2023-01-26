@@ -1,5 +1,5 @@
 
-Authentication is for authenticating user.Made using Node.js,Express.js and MYSQL.
+Authentication is for authenticating user.Made using Node.js,Express.js, Typescript and MYSQL.
 
 
 Step 1 : After downloading repository please install node_modules by using command npm i. <br>
